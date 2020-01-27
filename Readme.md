@@ -1,9 +1,10 @@
 
 
 動かしてみるだけなら、
-JUMAN++
-text-vectorian
-BERT日本語学習済みモデル(https://yoheikikuta.github.io/bert-japanese/)
+
++ JUMAN++
++ text-vectorian
++ BERT日本語学習済みモデル(https://yoheikikuta.github.io/bert-japanese/)
 
 を準備の上、Aizen.ipynb
 
